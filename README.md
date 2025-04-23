@@ -7,3 +7,6 @@
 
 ##réalisation test unitaire
 ![capture d'écran](images/testunitaire.png)
+
+Voici le résultat du test:
+![capture d'écran](images/resultattest.png)
