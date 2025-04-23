@@ -10,3 +10,6 @@
 
 Voici le résultat du test:
 ![capture d'écran](images/resultattest.png)
+
+Voici le resultat du test en échec
+![capture d'écran](images/echectest.png)
